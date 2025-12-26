@@ -1,0 +1,24 @@
+{
+  "name": "keepnotes",
+  "version": "1.0.0",
+  "description": "This is a express server to create Notes and keep them orgainsed in a folder stucture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonusharma05/KeepNotes.git"
+  },
+  "author": "Sonu_Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonusharma05/KeepNotes/issues"
+  },
+  "homepage": "https://github.com/sonusharma05/KeepNotes#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.0.2"
+  }
+}
